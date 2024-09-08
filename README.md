@@ -9,7 +9,7 @@ Created by Jabbar Shah and Devon Liu
 # Introduction: 
 Music is a part of everyone's life, whether they have a track saved on Spotify from a year ago, or 10 years ago, music brings entertainment and memories of their favorite moments. That’s why for this dashboard, Devon and I decided to create an overview of music industry trends from 2000 to 2019, showcasing the interplay between top playlist tracks, artist and song popularity, genre evolution, and playlist duration changes. There are a total of four visualizations, including a table containing all tracks for all years, a scatter plot showing the relationship between artist and track popularity, a frequency chart to show how each genre was used over the years, and a box plot that shows the duration of tracks over the years. We can explore how music preferences, artist success, and listening habits have transformed over time, providing insights into the dynamic landscape of popular music and consumer behavior.  
 
-Research Questions: 
+# Research Questions: 
 
 Is there a correlation between track popularity and artist popularity? How do these metrics interact? 
 
@@ -20,24 +20,18 @@ Which genres have dominated the top hits in different years? Which genres have f
 How have song durations in top hits changed over the years? 
 
  
-
 The target audience would be avid song listeners who use Spotify that want to know what the top songs and artists have been in the past 20 years. The audience may have heard of these songs/artists before and might want to explore more into an artist’s other works. In addition, those who work in the industry, like the song labels/companies, might want to use this information to analyze the trend of what type of music was popular and use that information to make any future changes. 
 
  
+# Description of Data and Methods: 
 
-Description of Data and Methods: 
-
- 
 
 Box Plot – Track Duration 
 
- 
-
 In this interactive visualization, the boxplot shows the distribution between song length over 20 years (2000-2019). This visualization is dedicated to answering the question, “How have song durations in top hits changed over the years?” 
 
- 
-
 The user can filter through the boxplot by year, so that they can see each individual or selected years more closely. 
+![Screenshot 2024-09-08 at 6 39 53 PM](https://github.com/user-attachments/assets/82360cd8-2984-4525-9e82-5c72c61de678)
 
  
 
