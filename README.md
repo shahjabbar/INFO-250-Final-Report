@@ -26,8 +26,8 @@ The target audience would be avid song listeners who use Spotify that want to kn
 # Description of Data and Methods: 
 
 
-**Box Plot – Track Duration 
-**
+**Box Plot – Track Duration**
+
 In this interactive visualization, the boxplot shows the distribution between song length over 20 years (2000-2019). This visualization is dedicated to answering the question, “How have song durations in top hits changed over the years?” 
 
 ![Screenshot 2024-09-08 at 6 40 45 PM](https://github.com/user-attachments/assets/52db516c-45c0-4298-a367-d0d9ffcfacd8)
@@ -45,7 +45,7 @@ In addition, users can select individual points for more detail, like song name,
 ![Screenshot 2024-09-08 at 6 41 49 PM](https://github.com/user-attachments/assets/0c68dc2f-db50-44d8-aac1-9e94ba9f6876)
 
  
-**Frequency Chart– Time series 2000-2019 **
+**Frequency Chart– Time series 2000-2019**
 
 ![Screenshot 2024-09-08 at 6 42 22 PM](https://github.com/user-attachments/assets/3c616413-c393-4a71-9cf5-fbd673b17816)
 
@@ -68,8 +68,6 @@ On the top right of the Dashboard is a scatter plot that lists values for every 
 ![Screenshot 2024-09-08 at 6 43 26 PM](https://github.com/user-attachments/assets/bad0228b-9430-4d4b-8024-1d13d82e8e29)
 
 However, an artist producing more popularity tracks may not always be the case. Between 2015-2019,  the song Don’t Mind by Kent Jones had a artist popularity of 49.03%, but a track popularity of almost 65%, greater than over 548 average popular tracks of all years. This visualization at a full look helps examine the correlation between an artist’s overall popularity and the popularity of their individual tracks. 
-
- 
 
 # Results: 
 
