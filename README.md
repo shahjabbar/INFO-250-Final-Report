@@ -93,6 +93,7 @@ Song length has also seen a steady decrease throughout the years with the median
 
 These findings have shown that the more popular songs by Spotify’s metrics have gotten more popular and shorter. There are many factors when it comes to popularity, but having shorter songs can lead to an increase in re-playability, that increases popularity. It can also be the reason why pop songs have a greater number of songs due to the songs’ nature of catchy melodies. Top artists like Taylor Swift have produced many pop songs that contribute to the popularity scores she has. The trends this dashboard show can help users explore more about what the scope of music may look like in the future. 
 
- 
+
+Data Source: https://www.kaggle.com/datasets/josephinelsy/spotify-top-hit-playlist-2010-2022 (Title is not updated. Data since 2000 is provided in this link)
 
  
