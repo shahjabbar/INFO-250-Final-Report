@@ -30,28 +30,30 @@ Box Plot – Track Duration
 
 In this interactive visualization, the boxplot shows the distribution between song length over 20 years (2000-2019). This visualization is dedicated to answering the question, “How have song durations in top hits changed over the years?” 
 
-The user can filter through the boxplot by year, so that they can see each individual or selected years more closely. 
-![Screenshot 2024-09-08 at 6 39 53 PM](https://github.com/user-attachments/assets/82360cd8-2984-4525-9e82-5c72c61de678)
+![Screenshot 2024-09-08 at 6 40 45 PM](https://github.com/user-attachments/assets/52db516c-45c0-4298-a367-d0d9ffcfacd8)
 
- 
+The user can filter through the boxplot by year, so that they can see each individual or selected years more closely. 
+
+![Screenshot 2024-09-08 at 6 41 23 PM](https://github.com/user-attachments/assets/9a83e655-8e8f-4949-b446-7b32e361f072)
+
 
 As seen above, the boxplot is automatically fitted within the space along with the rest of the visualizations being dynamically changed to fit the filters (years 2016 & 2019 selected). 
-
- 
 
 In addition, users can select individual points for more detail, like song name, artist, year released, and track length 
 
  
+![Screenshot 2024-09-08 at 6 41 49 PM](https://github.com/user-attachments/assets/0c68dc2f-db50-44d8-aac1-9e94ba9f6876)
 
  
 
 Frequency Chart– Time series 2000-2019 
 
- 
+![Screenshot 2024-09-08 at 6 42 22 PM](https://github.com/user-attachments/assets/3c616413-c393-4a71-9cf5-fbd673b17816)
+
 
 Above we have a frequency bar chart with the x-axis listing all genres mentioned in the top tracks, and the y-axis being the years 2000-2018. The frequency of genres over the years is seen as the density of the respected blue points of each year. The darker and dense the blue marks are, the more frequent and vice versa. The chart is going from greatest to least, and we can see the annotations mentioning that Dance Pop is the most frequent genre between 2000-2013, while Pop is the most frequent song between 2014-2019.  
 
- 
+![Screenshot 2024-09-08 at 6 42 48 PM](https://github.com/user-attachments/assets/e3d57abe-81de-4d03-a25d-6d18dff00ec1)
 
 If we scroll to the end of the chart, we will see the least frequent genre, Afrobeats, with just one song in the entire top Spotify track list. Hovering over the values will also provide the artist name and exact release date. Overall, this chart provide great insight on the overall frequency of every genre, and how it has changed overtime.  
 
@@ -59,19 +61,18 @@ If we scroll to the end of the chart, we will see the least frequent genre, Afro
 
 Scatter Plot – Artist Popularity vs Track Popularity 
 
- 
+![Screenshot 2024-09-08 at 6 43 09 PM](https://github.com/user-attachments/assets/fcae479e-ca8c-41ff-a72c-2f50632c5b22)
+
 
 On the top right of the Dashboard is a scatter plot that lists values for every track based on the artist popularity of and track popularity. Each point on the scatter plot represents a track, with its position determined by the respected artist popularity (x-axis) and track popularity (y-axis). We notice that as the artist popularity increases, so does the track popularity. A great example one of Taylor Swift’s songs, Cruel Summer, that received a 96% popularity.  
 
- 
-
- 
+![Screenshot 2024-09-08 at 6 43 26 PM](https://github.com/user-attachments/assets/bad0228b-9430-4d4b-8024-1d13d82e8e29)
 
 However, an artist producing more popularity tracks may not always be the case. Between 2015-2019,  the song Don’t Mind by Kent Jones had a artist popularity of 49.03%, but a track popularity of almost 65%, greater than over 548 average popular tracks of all years. This visualization at a full look helps examine the correlation between an artist’s overall popularity and the popularity of their individual tracks. 
 
  
 
-Results: 
+# Results: 
 
 For the boxplot, the distribution among the median track duration over the years has slowly decreased. With 2000’s top hits having a median of 4.035 minutes, and 2019 having a median track length of 3.220 minutes. There can be many reasons as to why that is. One of them is because shorter songs can result in higher re-playability. Re-playability is one of the many factors as to how songs become more popular in streaming services. It’s also a metric to making more money for the labels and artists. For example, a song lasting 2 minutes that is replayed 3 times will make more than a song that lasts 6 minutes that is only played once. This trend can also be a result of people having shorter attention spans in more recent years. Maybe in the next decade, top hits songs could have a median run time of 2 minutes. 
 
@@ -83,7 +84,7 @@ As for the frequency chart, it provides a quantitative view of how genres have c
 
  
 
-Conclusion: 
+# Conclusion: 
 
 The visualization of “Spotify Through The Ages: 2000 – 2019" has shown clear trends of how songs have changed over time.  
 
@@ -94,8 +95,6 @@ Artists like Taylor Swift and Drake have two of the highest artist popularity sc
 When it comes to song genres, there are many categories and subcategories that can be similarly grouped. For the top hits, dance pop and pop have the greatest number of songs with dance pop being the most popular from 2000 – 2013 and pop from 2014 – 2019. 
 
 Song length has also seen a steady decrease throughout the years with the median song length having decreased by almost one minute from 2000 to 2019.  
-
- 
 
 These findings have shown that the more popular songs by Spotify’s metrics have gotten more popular and shorter. There are many factors when it comes to popularity, but having shorter songs can lead to an increase in re-playability, that increases popularity. It can also be the reason why pop songs have a greater number of songs due to the songs’ nature of catchy melodies. Top artists like Taylor Swift have produced many pop songs that contribute to the popularity scores she has. The trends this dashboard show can help users explore more about what the scope of music may look like in the future. 
 
