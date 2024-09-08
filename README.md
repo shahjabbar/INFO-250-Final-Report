@@ -26,8 +26,8 @@ The target audience would be avid song listeners who use Spotify that want to kn
 # Description of Data and Methods: 
 
 
-Box Plot – Track Duration 
-
+**Box Plot – Track Duration 
+**
 In this interactive visualization, the boxplot shows the distribution between song length over 20 years (2000-2019). This visualization is dedicated to answering the question, “How have song durations in top hits changed over the years?” 
 
 ![Screenshot 2024-09-08 at 6 40 45 PM](https://github.com/user-attachments/assets/52db516c-45c0-4298-a367-d0d9ffcfacd8)
@@ -45,8 +45,7 @@ In addition, users can select individual points for more detail, like song name,
 ![Screenshot 2024-09-08 at 6 41 49 PM](https://github.com/user-attachments/assets/0c68dc2f-db50-44d8-aac1-9e94ba9f6876)
 
  
-
-Frequency Chart– Time series 2000-2019 
+**Frequency Chart– Time series 2000-2019 **
 
 ![Screenshot 2024-09-08 at 6 42 22 PM](https://github.com/user-attachments/assets/3c616413-c393-4a71-9cf5-fbd673b17816)
 
@@ -59,7 +58,7 @@ If we scroll to the end of the chart, we will see the least frequent genre, Afro
 
  
 
-Scatter Plot – Artist Popularity vs Track Popularity 
+**Scatter Plot – Artist Popularity vs Track Popularity**
 
 ![Screenshot 2024-09-08 at 6 43 09 PM](https://github.com/user-attachments/assets/fcae479e-ca8c-41ff-a72c-2f50632c5b22)
 
