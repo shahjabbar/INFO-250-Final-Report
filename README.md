@@ -11,22 +11,20 @@ Music is a part of everyone's life, whether they have a track saved on Spotify f
 
 # Research Questions: 
 
-Is there a correlation between track popularity and artist popularity? How do these metrics interact? 
+- Is there a correlation between track popularity and artist popularity? How do these metrics interact? 
 
-Which artists have maintained their popularity over multiple years? Are there artists who frequently appear in the top hits? 
+- Which artists have maintained their popularity over multiple years? Are there artists who frequently appear in the top hits? 
 
-Which genres have dominated the top hits in different years? Which genres have faded off over the years?   
+- Which genres have dominated the top hits in different years? Which genres have faded off over the years?   
 
-How have song durations in top hits changed over the years? 
+- How have song durations in top hits changed over the years? 
 
- 
 The target audience would be avid song listeners who use Spotify that want to know what the top songs and artists have been in the past 20 years. The audience may have heard of these songs/artists before and might want to explore more into an artist’s other works. In addition, those who work in the industry, like the song labels/companies, might want to use this information to analyze the trend of what type of music was popular and use that information to make any future changes. 
 
- 
 # Description of Data and Methods: 
 
 
-**Box Plot – Track Duration**
+**Box Plot – Track Duration:**
 
 In this interactive visualization, the boxplot shows the distribution between song length over 20 years (2000-2019). This visualization is dedicated to answering the question, “How have song durations in top hits changed over the years?” 
 
@@ -44,8 +42,8 @@ In addition, users can select individual points for more detail, like song name,
  
 ![Screenshot 2024-09-08 at 6 41 49 PM](https://github.com/user-attachments/assets/0c68dc2f-db50-44d8-aac1-9e94ba9f6876)
 
- 
-**Frequency Chart– Time series 2000-2019**
+
+**Frequency Chart– Time series 2000-2019:**
 
 ![Screenshot 2024-09-08 at 6 42 22 PM](https://github.com/user-attachments/assets/3c616413-c393-4a71-9cf5-fbd673b17816)
 
@@ -58,7 +56,7 @@ If we scroll to the end of the chart, we will see the least frequent genre, Afro
 
  
 
-**Scatter Plot – Artist Popularity vs Track Popularity**
+**Scatter Plot – Artist Popularity vs Track Popularity:**
 
 ![Screenshot 2024-09-08 at 6 43 09 PM](https://github.com/user-attachments/assets/fcae479e-ca8c-41ff-a72c-2f50632c5b22)
 
